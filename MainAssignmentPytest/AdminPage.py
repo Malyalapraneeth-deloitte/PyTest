@@ -1,7 +1,6 @@
 from ReadingExcel import Excel
 from MainAssignment import TimeCaluclation
 
-
 class AdminClass(Excel):
     def welcomeAdmin(self):
         print("******Welcome Admin*******\n1. Add New Movie Information\n2. Edit Movie Info\n3. Delete Movies\n4.Logout")
