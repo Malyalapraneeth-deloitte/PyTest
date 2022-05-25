@@ -1,5 +1,5 @@
+from MainAssignmentPytest import TimeCaluclation
 from ReadingExcel import Excel
-from MainAssignment import TimeCaluclation
 
 
 class AdminClass(Excel):
